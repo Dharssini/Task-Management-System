@@ -41,10 +41,6 @@ A Simple Java task management system to schedule tasks weekly along with a pomod
 
 https://user-images.githubusercontent.com/76642252/199493172-3af8c69b-bdb5-43be-97ac-21f1b163c85e.mp4
 
-### More Reference
-
-[Daily Task Scheduler.pdf](https://github.com/VidhyaVarshanyJS/DailyTaskScheduler/blob/1a3c85cf9180288d2f78b16ad44c3ed7ecf0358f/Daily%20Task%20Scheduler.pdf)
-
 ## License
 
 Licensed at [MIT](https://choosealicense.com/licenses/mit/)
